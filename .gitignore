@@ -1,0 +1,4 @@
+*.log
+.env
+.vscode/
+Thumbs.db
